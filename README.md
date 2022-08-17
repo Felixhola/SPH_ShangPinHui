@@ -1,5 +1,7 @@
 最新接口地址： http://gmall-h5-api.atguigu.cn
 
+项目上线地址：https://sph-shangpinhui.vercel.app/
+
 项目接口如果失效，请联系QQ：487554983
 
 项目由本人亲自书写，于2022.7.28收尾，后期可能有更新，请注意。
